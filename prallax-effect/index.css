@@ -89,6 +89,48 @@ section{
 .bg3{
     background-image: url(sport-3.jpg);
 }
+@media only screen and (max-width:1140px)
+{
+    h1 {
+        position: absolute;
+        top: 14.5rem;
+        font-size: 2.6rem;
+        letter-spacing: 8px;
+        color: white;
+        text-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    }
+.secHeading {
+    font-size: 2.8rem;
+    padding: 0 2rem;
+}
+    .text {
+        font-size: 1.5rem;
+        padding: 0 2rem;
+        margin: 5rem 0;
+    }
+    .bg {
+        position: relative;
+        width: 100%;
+        background-attachment: fixed;
+        background-position: center;
+        background-size: cover;
+        height: 700px;
+    }
+
+    .desc {
+        position: absolute;
+        background-color: white;
+        padding: 0.3rem 0.3rem;
+        top: 50%;
+        left: 90%;
+        transform: translateX(-50%) translateX(-50%);
+        color: black;
+        font-size: 2.5rem;
+        font-weight: 600;
+    }
+
+
+}
 
 
 
