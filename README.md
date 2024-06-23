@@ -1,1 +1,3 @@
 In this project, I created a responsive website with a parallax effect......
+
+visit to see website 👉 https://awalzz-parallax.netlify.app/
